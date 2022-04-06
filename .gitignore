@@ -1,0 +1,7 @@
+/vendor
+.env.ini
+/.phpintel
+/src/Views/cache
+monitor.sublime-project
+monitor.sublime-workspace
+.idea

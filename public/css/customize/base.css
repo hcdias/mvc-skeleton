@@ -1,0 +1,5 @@
+
+/*customizar o font-size dessa cascata css no diagoona*/
+.navbar-expand-lg .navbar-nav .tm-nav-link{
+  font-size:0.93rem;
+}
