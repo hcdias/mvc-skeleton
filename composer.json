@@ -15,7 +15,8 @@
         "ext-pdo": "*",
         "ext-mysql": "*",
         "ext-mbstring": "*",
-        "ext-json": "*"
+        "ext-json": "*",
+        "ext-xml": "*"
     },
     "autoload": {
         "psr-4": {
