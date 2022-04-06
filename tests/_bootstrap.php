@@ -1,3 +1,3 @@
 <?php 
 
-define('BASE_PATH',realpath("../monitor"));
+define('BASE_PATH',realpath("../mvc-skeleton"));
